@@ -14,3 +14,5 @@ You should be able to see the welcome print messages in the kernel messages wind
 **rmmod basic_kernel_driver**\
 **dmesg**\
 You shall see the exit print messages.
+
+Note: Some commands might need more privileges, use **sudo** wherever necessary.
