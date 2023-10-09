@@ -6,6 +6,9 @@ Navigate to the project directory:\
 **insmod basic_kernel_driver.ko**\
 **dmesg**
 
+To view device driver information:\
+**modinfo basic_kernel_driver.ko**
+
 You should be able to see the welcome print messages in the kernel messages window.
 
 **rmmod basic_kernel_driver**\
